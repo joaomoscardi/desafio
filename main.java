@@ -108,5 +108,6 @@ public class main {
                     System.out.println("Opção invalida.");
             }
         }
+        scanner.close();
     }
 }
